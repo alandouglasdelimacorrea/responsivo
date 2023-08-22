@@ -1,1 +1,16 @@
 @import url(/style/header.css);
+
+body {
+    background-color: bisque;
+}
+
+.container img {
+    max-height: 100px;
+    max-width: 200px;
+    width: auto;
+    height: auto;
+}
+
+h1 {
+    color: blue;
+}
